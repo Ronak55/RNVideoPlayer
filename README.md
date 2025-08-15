@@ -62,18 +62,18 @@ This command will open the Expo Dev Tools in your browser. From there, you can:
 - Press w in the terminal to run the project in your web browser (if web support is configured).
 - Press a to open on an Android emulator or i to open on an iOS simulator.
 
-💡 Usage
+## 💡 Usage
 
 Once the Expo Go app launches your project, the video player component will be displayed. The application is set up to play the sample.mp4 video and utilize the subtitles.ass file located within the project's asset structure. Interact with the custom controls to play, pause, and manage video playback and subtitle visibility.
 
-🔗 Live Project / Demo Link
+## 🔗 Live Project / Demo Link  
 [https://expo.dev/accounts/irohnyyy/projects/expo-video-player/builds/5b233307-276b-4d63-88f8-8ca3e1cc1839]
 
-▶️ Captioned Demo Video
+## ▶️ Captioned Demo Video  
 [https://jumpshare.com/folder/N5K863XLejWRnpZx2Wpw]
 
-🤝 Contributing
+## 🤝 Contributing  
 Feel free to open issues or submit pull requests.
 
-📄 License
+## 📄 License  
 This project is licensed under the MIT License. See the LICENSE file for more details.
