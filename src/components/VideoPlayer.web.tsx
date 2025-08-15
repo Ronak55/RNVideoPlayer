@@ -148,6 +148,7 @@ const styles = StyleSheet.create({
   },
   webPlayerContainer: {
     width: '100%',
+    height: '60%',
     aspectRatio: 16 / 9,
     backgroundColor: '#000',
     borderRadius: 12,
